@@ -6,7 +6,8 @@ Team Members - Marcus, Sophie, Angelo
 
 ## [Checkpoint 1](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/F.IV.md)
 
-## [Block Diagram]
+## Block Diagram
+![Screenshot 2024-10-21 001858](https://github.com/user-attachments/assets/d01f3d0a-dabc-4715-9b66-9dbd7232692d)
 
 
 
