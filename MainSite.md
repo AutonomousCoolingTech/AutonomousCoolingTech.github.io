@@ -9,9 +9,10 @@ Team Members - Marcus, Sophie, Angelo
 ## Block Diagram
 ![Screenshot 2024-10-21 001858](https://github.com/user-attachments/assets/d01f3d0a-dabc-4715-9b66-9dbd7232692d)
 
+##
 
-
-
+## Microcontroller Selection
+[Team 301 microcontroller-selection.pdf](https://github.com/user-attachments/files/17456671/Team.301.microcontroller-selection.pdf)
 
 
 
