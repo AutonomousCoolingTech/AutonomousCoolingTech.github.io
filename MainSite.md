@@ -11,8 +11,7 @@ Team Members - Marcus, Sophie, Angelo
 
 ##
 
-## Microcontroller Selection
-[Team 301 microcontroller-selection.pdf](https://github.com/user-attachments/files/17456671/Team.301.microcontroller-selection.pdf)
+## [Microcontroller Selection](file:///C:/Users/littl/Downloads/Team.301.microcontroller-selection.pdf)
 
 
 
