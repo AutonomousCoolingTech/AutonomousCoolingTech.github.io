@@ -15,10 +15,10 @@
 ## Component Selection
 ### [Component Selection Sheet](https://github.com/user-attachments/files/17466414/Updated.Component.Selection.pdf)
 
-### [Team Power Budget](https://github.com/user-attachments/files/17467156/Team.Power.Budget.pdf)
+### [Team Power Budget Sheet](https://github.com/user-attachments/files/17467156/Team.Power.Budget.pdf)
 
 ## Microcontroller Selection
-[Microcontroller Selection Sheet](https://github.com/user-attachments/files/17456795/Team.301.microcontroller-selection.pdf)
+### [Microcontroller Selection Sheet](https://github.com/user-attachments/files/17456795/Team.301.microcontroller-selection.pdf)
 
 ## Hardware Proposal
 ![Screenshot 2024-10-21 003833](https://github.com/user-attachments/assets/9d02ca87-6500-4ce6-aaaf-03031168addf)
