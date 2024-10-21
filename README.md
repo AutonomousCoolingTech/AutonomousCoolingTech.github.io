@@ -14,7 +14,7 @@
 
 ## Component Selection
 [Component Selection Sheet](https://github.com/user-attachments/files/17466414/Updated.Component.Selection.pdf)
-* Power Budget
+[Team Power Budget.pdf](https://github.com/user-attachments/files/17467156/Team.Power.Budget.pdf)
 
 ## Microcontroller Selection
 [Microcontroller Selection Sheet](https://github.com/user-attachments/files/17456795/Team.301.microcontroller-selection.pdf)
