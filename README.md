@@ -7,6 +7,7 @@
 ## [Checkpoint 1](https://autonomouscoolingtech.github.io/Team301.github.io/)
 
 ## Selected Design
+![Screenshot 2024-09-06 160338](https://github.com/user-attachments/assets/2c47cfff-0d0b-4201-a9fb-9a5853de7b27)
 
 ## Block Diagram
 ![Screenshot 2024-10-21 001858](https://github.com/user-attachments/assets/d01f3d0a-dabc-4715-9b66-9dbd7232692d)
