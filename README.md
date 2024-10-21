@@ -4,7 +4,7 @@
 
 ### Team Members - Marcus, Sophie, Angelo 
 
-## [Checkpoint 1](https://github.com/AutonomousCoolingTech/Team301.github.io/blob/main/F.IV.md)
+## [Checkpoint 1](https://autonomouscoolingtech.github.io/Team301.github.io/)
 
 ## Selected Design
 
