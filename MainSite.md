@@ -14,6 +14,8 @@ Team Members - Marcus, Sophie, Angelo
 ## [Microcontroller Selection](https://github.com/user-attachments/files/17456795/Team.301.microcontroller-selection.pdf)
 
 ## Hardware Proposal
+![Screenshot 2024-10-21 003833](https://github.com/user-attachments/assets/9d02ca87-6500-4ce6-aaaf-03031168addf)
+
 [Hardware Proposal Prototype 1.pdf](https://github.com/user-attachments/files/17456862/Hardware.Proposal.Prototype.1.pdf)
 
 
